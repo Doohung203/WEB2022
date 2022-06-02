@@ -26,7 +26,6 @@ function showProduct(products) {
             </div> 
         `;
   }
-
   //return
   return result;
 }
